@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      <h1>Hello IT241 WEBPROG class!</h1>
+      <h1>Hello IT241 WEBPROG class from Vercel.com!</h1>
     </div>
   );
 }
